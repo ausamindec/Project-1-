@@ -1,0 +1,43 @@
+.hero {
+    background-color: #ffe9ec;
+}
+
+
+.search-results > a {
+    text-decoration: none;
+}
+
+#magnitude, #ingredient{
+    list-style-type: none;
+}
+
+.notification {
+    border-color: #fff;
+    background-color: #ffe9ec;
+}
+
+.search-results{
+    background-color: #ffe9ec;
+}
+
+.titleHero{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Flavorful{
+    border: coral 2px ridge;
+}
+
+#titleFlavorful{
+    position: relative ;
+    color: navy;
+    font-size: 35px;
+    font-Weight: bolder;
+}
+
+.hero-body{
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
+
