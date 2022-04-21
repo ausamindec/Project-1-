@@ -24,9 +24,9 @@ AS a cook and health lover i also wants information about the facts like macro a
 ## Review
 
 
-* The URL of the functional, deployed application : https://ausamindec.github.io/Project-1-/
+* The URL of the functional, deployed application : https://ausamindec.github.io/Project-1/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project : https://github.com/ausamindec/Project-1-.git
+* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project : https://github.com/ausamindec/Project-1
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
